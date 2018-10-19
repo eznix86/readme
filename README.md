@@ -16,3 +16,8 @@ readme README.md
 - Quick edit of markdown
 - Easy way to add tags
 - Quick github markdown templates
+
+### Don't forget to append your information in the contributors.md
+ - Name
+ - Github username
+ - Public social media account (if any)
